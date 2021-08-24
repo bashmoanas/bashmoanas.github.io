@@ -4,6 +4,7 @@ html, body {
 
 .introduction {
   background-color: #92a8d1;
+  display: block;
 }
 
 h2 {
