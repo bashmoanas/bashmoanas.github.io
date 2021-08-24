@@ -10,14 +10,3 @@ html, body {
   align-items: center;
   width: 80%;
 }
-
-h2 {
-  max-width: 65%;
-  min-width: 500px;
-}
-
-div {
-  padding-right: 30px;
-  height: 100%;
-  width: 100%;
-}
