@@ -3,7 +3,7 @@ html, body {
 }
 
 #introduction {
-  background-color: red;
+  background-color: coral;
   display: flex;
   justify-content: center;
 }
