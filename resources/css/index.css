@@ -1,15 +1,49 @@
 html, body {
-  font-family: Helvetica, sans-serif;
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
-  width: 80%;
+    font-family: Helvetica, sans-serif;
+}
+
+h1 {
+    /*    color: gray;*/
+}
+
+h1, h2 {
+    margin-bottom: 0px;
 }
 
 .introduction {
-  align-items: flex-start;
+    margin: 0;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
 }
 
-.contact {
-  align-items: flex-start;
+hr {
+    height: 0.5px;
+    border-width: 0;
+    color: gray;
+    background-color: gray;
+}
+
+/* unvisited link */
+a:link {
+    color: slategray;
+    text-decoration: none
+}
+
+/* visited link */
+a:visited {
+    color: slategray;
+    text-decoration: none;
+}
+
+/* mouse over link */
+a:hover {
+/*    color: hotpink;*/
+}
+
+/* selected link */
+a:active {
+/*    color: blue;*/
+/*    text-decoration: underline;*/
 }
