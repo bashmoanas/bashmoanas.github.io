@@ -6,3 +6,7 @@ html, body {
   align-items: center;
   width: 80%;
 }
+
+.introduction {
+  background-color: red;
+}
