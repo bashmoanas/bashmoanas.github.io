@@ -1,0 +1,36 @@
+html, body {
+    font-family: Helvetica, sans-serif;
+}
+
+h1, h2 {
+    margin-bottom: 0px;
+}
+
+.introduction {
+    margin: 0;
+    position: absolute;
+    left: 50%;
+    transform: translate(-50%, 0%);
+}
+
+hr {
+    height: 0.5px;
+    border-width: 0;
+    color: gray;
+    background-color: gray;
+}
+
+.dataCollection {
+    color: slategray;
+}
+
+.downloadOnTheAppStore {
+    display: inline-block;
+    overflow: hidden;
+    border-top-left-radius: 13px;
+    border-top-right-radius: 13px;
+    border-bottom-right-radius: 13px;
+    border-bottom-left-radius: 13px;
+    width: 250px;
+    height: 83px;
+}
