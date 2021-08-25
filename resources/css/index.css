@@ -7,11 +7,9 @@ html, body {
 }
 
 .introduction {
-  background-color: red;
   align-items: flex-start;
 }
 
 .contact {
-  background-color: green;
   align-items: flex-start;
 }
